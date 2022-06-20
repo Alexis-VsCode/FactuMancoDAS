@@ -10,10 +10,5 @@ public class FacturaElectronicaApplication {
 		SpringApplication.run(FacturaElectronicaApplication.class, args);
 	}
 //Cambio  Aplicacion Principal
-//HOLA MUNDO 
-	//CAMBIO 
-	//CAMBIO
-	//CAMBIO NUEVO 
-	//CAMBIO 
-	//ANDREAA
+//HOLA amikos
 }
